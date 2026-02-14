@@ -12,3 +12,4 @@
 - Explanation for the CSS coding to achieve the wanted output 
 - writing a cleaner HTML code and stucture 
 - help personlize the website to my own style 
+- Document clean organized reports 
